@@ -1,8 +1,7 @@
 # Hi, I'm Shailesh 👋  
 Full Stack Devoloper | AI & ML Enthusiast | iOS App Developer
 
-I build full-stack apps, train AI models, and ship stuff that *actually works*.  
-From fast APIs to smart systems, I like clean UIs, efficient backends, and tools that make a real difference.
+I build full-stack apps, train AI models, and ship stuff that actually works. React, Angular, Django, Streamlit, FastAPI — whatever fits. I like clean UIs, fast backends, and smart systems that make a real difference.
 
 ---
 
