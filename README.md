@@ -19,7 +19,7 @@ I build full-stack apps, train AI models, and ship stuff that actually works. Re
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaileshhariharan03&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaileshhariharan&layout=compact&theme=radical&hide_border=true)
 
 ---
 
