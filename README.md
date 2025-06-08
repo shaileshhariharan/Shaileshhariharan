@@ -34,7 +34,7 @@ I build full-stack apps, train AI models, and ship stuff that actually works. Re
 ### 💬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailesh-h-32a8b71a8/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://shaileshhariharan03.github.io)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://shaileshhariharan.github.io)
 [![Twitter](https://img.shields.io/badge/-@shailesh_h-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/shailesh__h)
 
 ---
